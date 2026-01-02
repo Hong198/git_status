@@ -4,3 +4,6 @@ def hello():
 
 def hello1():
     return "Hello world1!!!"
+
+def hello2():
+    return "Hello world2!"
